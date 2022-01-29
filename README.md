@@ -1,4 +1,4 @@
-# js-Password Generator
+# Password Generator
 
 **Descritpion**:<br>
 This script asks you for your **name, surname and favorite color** via prompts.<br>
